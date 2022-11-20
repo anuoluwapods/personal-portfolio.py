@@ -7,6 +7,8 @@
 
 **Database:** PostgreSQL | Microsoft SQL Server | MongoDB
 
+**Visualization Tools:** PowerBI | Tableau 
+
 **Cloud Platforms:** Snowflake | AWS | GCP | Azure
  
 **Distributed SQL:** FaunaDB | CockroachDB
@@ -15,8 +17,8 @@
 
 **Statistics:** Excel | SAS | SPSS
 
-**Skills:** ML Algorithmn | A/B Testing | Data Wrangling |
-Analytics | Sales | Consulting 
+**Skills:** ML Algorithmn | A/B Testing | Data Wrangling | Analytics | Data preprocessing | Exploratory Data Analysis | Fraud Analysis |
+Hypothesis Testing 
 
 
 
