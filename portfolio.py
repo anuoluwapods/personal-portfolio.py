@@ -15,13 +15,13 @@ st.info('Skills and Softwares: Python| R | Streamlit | Rapid Miner |Excel | Powe
 
 icon_size = 20
 
+st_button('medium', 'https://anuoluwapods.medium.com', 'Data Analysis Portfolio', icon_size)
+st_button('jovian', 'https://jovian.ai/designegycreatives/notebooks', 'Data Science Portfolio', icon_size)
+st_button('hashnode', 'https://hashnode.com/@AnuoluwapoDS', 'Web Application Portfolio', icon_size)
+st_button('dev.to', 'https://dev.to/anuoluwapods', 'Data Engineering Portfolio', icon_size)
 st_button('twitter', 'https://twitter.com/AnuoluwapoDs', 'Twitter Page', icon_size)
 st_button('github', 'https://github.com/anuoluwapods', 'GitHub Page', icon_size)
 st_button('linkedin', 'https://www.linkedin.com/in/anuoluwapo-abiodun-balogun-64b977186/', 'LinkedIn Page', icon_size)
 st_button('instagram', 'https://www.instagram.com/anuoluwapods/', 'Instagram Page', icon_size)
 st_button('facebook', 'https://www.facebook.com/ifeoluwapo.balogun', 'Facebook Page', icon_size)
-st_button('medium', 'https://anuoluwapods.medium.com', 'Data Analysis Portfolio', icon_size)
-st_button('jovian', 'https://jovian.ai/designegycreatives/notebooks', 'Data Science Portfolio', icon_size)
-st_button('hashnode', 'https://hashnode.com/@AnuoluwapoDS', 'Web Application Portfolio', icon_size)
-st_button('dev.to', 'https://dev.to/anuoluwapods', 'Data Engineering Portfolio', icon_size)
 
