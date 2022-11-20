@@ -11,7 +11,7 @@ st.header('Anuoluwapo Balogun | Data Analyst')
 
 st.info('A Certified Data analyst and a self taught Data scientist and engineer specialized in sales and consultancy')
 col1.write('Email: ifeoluwapobalogun1@gmail.com | Phone: +2349090251869')
-col2.write('PostgreSQL | Microsoft SQL Server | MongoDB PowerBI | Tableau Python | R |'
+col1.write('PostgreSQL | Microsoft SQL Server | MongoDB PowerBI | Tableau Python | R |'
                       ' Excel | SAS | SPSS | FaunaDB | CockroachDB Snowflake | AWS | GCP | Azure')
 col3.write('ML Algorithmn | A/B Testing | Data Wrangling |'
          ' Analytics | Data Preprocessing | Data Visualization'
