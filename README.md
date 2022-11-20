@@ -17,7 +17,7 @@
 
 **Statistics:** Excel | SAS | SPSS
 
-**Skills:** ML Algorithmn | A/B Testing | Data Wrangling | Analytics | Data preprocessing | Exploratory Data Analysis | Fraud Analysis |
+**Skills:** ML Algorithmn | A/B Testing | Data Wrangling | Analytics | Data Preprocessing | Exploratory Data Analysis | Fraud Analysis |
 Hypothesis Testing 
 
 
