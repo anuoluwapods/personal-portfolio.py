@@ -5,12 +5,11 @@ from PIL import Image
 load_css()
 
 col1, col2, col3 = st.columns(3)
-col1.image(Image.open('Image/image.png'))
+col2.image(Image.open('Image/image.png'))
 
 st.header('Anuoluwapo Balogun | Data Analyst')
 
 st.info('A Certified Data analyst and a self taught Data scientist and engineer specialized in sales and consultancy')
-col2.write('')
 col2.write('Email: ifeoluwapobalogun1@gmail.com | Phone: +2349090251869')
 col1.write('PostgreSQL | Microsoft SQL Server | MongoDB PowerBI | Tableau Python | R |'
                       ' Excel | SAS | SPSS | FaunaDB | CockroachDB Snowflake | AWS | GCP | Azure')
