@@ -9,7 +9,7 @@ def st_button(icon, url, label, iconsize):
     if icon == 'twitter':
         button_code = f'''
         <p>
-        <a href={url} class="card text-white bg-secondary mb-3"  style="max-width: 18rem aria-pressed="true">
+        <a href={url} class="btn btn-secondary"  style="max-width: 18rem aria-pressed="true">
         <div class="card-header">Header</div>
         <div class="card-body">
            <h5 class="card-title">Secondary card title</h5>
