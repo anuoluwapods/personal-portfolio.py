@@ -16,7 +16,7 @@ def st_button(icon, url, label, iconsize):
                 {label}
             </a>
         </p>'''
-   elif icon == 'github':
+    elif icon == 'github':
         button_code = f'''
         <p>
         <a href={url} class="btn btn-secondary active" type="button" aria-pressed="true">
