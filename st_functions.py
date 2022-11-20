@@ -46,7 +46,7 @@ def st_button(icon, url, label, iconsize):
                 {label}
             </a>
         </p>'''
-     elif icon == 'hashnode':
+    elif icon == 'hashnode':
         button_code = f'''
         <p>
             <a href={url} class="btn btn-outline-primary btn-lg btn-block" type="button" aria-pressed="true">
