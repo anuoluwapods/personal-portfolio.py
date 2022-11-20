@@ -16,7 +16,7 @@ st.info('Statistics: Excel | SAS | SPSS')
 st.info('Distributed SQL: FaunaDB | CockroachDB')
 st.info('Cloud Platforms: Snowflake | AWS | GCP | Azure')
 st.info('Skills: ML Algorithmn | A/B Testing | Data Wrangling |'
-         'Analytics | Sales | Consulting')
+         ' Analytics | Sales | Consulting')
 
 icon_size = 20
 
