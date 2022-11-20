@@ -9,7 +9,7 @@ col2.image(Image.open('image/image.png'))
 
 st.header('Anuoluwapo, Data Analyst || Scientist || Engineer')
 
-st.info('A certified Data analyst and a self taught Data ccientist and engineer specialized in Sales and Consultancy')
+st.info('A Certified Data analyst and a self taught Data ccientist and engineer specialized in Sales and Consultancy')
 st.info('Skills and Softwares: Python| R | Streamlit | Rapid Miner |Excel | PowerBI | Tableau | Plotly |  Matplotlib | Seaborn |'
         'Postgre SQL | Microsoft SQL Server | Flask | Django | Canva')
 
