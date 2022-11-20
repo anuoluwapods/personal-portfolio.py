@@ -11,12 +11,15 @@ st.header('Anuoluwapo | Data Analyst')
 
 st.info('A Certified Data analyst and a self taught Data scientist and engineer specialized in sales and consultancy')
 st.info('Database: PostgreSQL | Microsoft SQL Server | MongoDB')
+st.info('Visualization Tools: PowerBI | Tableau')
 st.info('Programming: Python | R')
 st.info('Statistics: Excel | SAS | SPSS')
 st.info('Distributed SQL: FaunaDB | CockroachDB')
 st.info('Cloud Platforms: Snowflake | AWS | GCP | Azure')
 st.info('Skills: ML Algorithmn | A/B Testing | Data Wrangling |'
-         ' Analytics | Sales | Consulting')
+         ' Analytics | Data Preprocessing |'
+         ' Exploratory Data Analysis | Fraud Analysis |'
+         ' Hypothesis Testing | Sales | Consulting')
 
 icon_size = 20
 
