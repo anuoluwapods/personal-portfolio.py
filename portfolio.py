@@ -14,8 +14,8 @@ st.info('Email: ifeoluwapobalogun1@gmail.com \n\nPhone: +2349090251869')
 import time
 
 my_bar = st.progress(70)
-perc = '70%'
-st.write(my_bar, perc)
+
+st.write('Data Visualization', my_bar)
 
 
 
