@@ -15,7 +15,7 @@ import time
 
 my_bar = st.progress(70)
 perc = '70%'
-st.write(my_bar{} . format(perc))
+st.write(my_bar, perc)
 
 
 
