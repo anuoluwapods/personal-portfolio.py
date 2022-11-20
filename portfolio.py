@@ -9,15 +9,15 @@ col2.image(Image.open('Image/image.png'))
 
 st.header('Anuoluwapo Balogun | Data Analyst')
 
-st.info('Email: ifeoluwapobalogun1@gmail.com \n\nPhone: +2349090251869')
-st.write('A Certified Data analyst and a self taught Data scientist and engineer specialized in sales and consultancy')
+st.info('A Certified Data analyst and a self taught Data scientist and engineer specialized in sales and consultancy')
+st.write('Email: ifeoluwapobalogun1@gmail.com \n\nPhone: +2349090251869')
 st.write('Database: PostgreSQL | Microsoft SQL Server | MongoDB')
-st.info('Visualization: PowerBI | Tableau')
-st.info('Programming: Python | R')
-st.info('Statistics: Excel | SAS | SPSS')
-st.info('Distributed SQL: FaunaDB | CockroachDB')
-st.info('Cloud Platforms: Snowflake | AWS | GCP | Azure')
-st.info('Skills: ML Algorithmn | A/B Testing | Data Wrangling |'
+st.write('Visualization: PowerBI | Tableau')
+st.write('Programming: Python | R')
+st.write('Statistics: Excel | SAS | SPSS')
+st.write('Distributed SQL: FaunaDB | CockroachDB')
+st.write('Cloud Platforms: Snowflake | AWS | GCP | Azure')
+st.write('Skills: ML Algorithmn | A/B Testing | Data Wrangling |'
          ' Analytics | Data Preprocessing | Data Visualization'
          ' Exploratory Data Analysis | Fraud Analysis |'
          ' Hypothesis Testing | Sales Analysis | Consulting')
