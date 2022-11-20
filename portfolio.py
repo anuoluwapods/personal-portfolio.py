@@ -10,15 +10,6 @@ col2.image(Image.open('Image/image.png'))
 st.header('Anuoluwapo Balogun | Data Analyst')
 
 st.info('Email: ifeoluwapobalogun1@gmail.com \n\nPhone: +2349090251869')
-
-import time
-
-my_bar = st.progress(70)
-st.title('Data Viualization')
-st.write(my_bar)
-
-
-
 st.info('A Certified Data analyst and a self taught Data scientist and engineer specialized in sales and consultancy')
 st.info('Database: PostgreSQL | Microsoft SQL Server | MongoDB')
 st.info('Visualization: PowerBI | Tableau')
