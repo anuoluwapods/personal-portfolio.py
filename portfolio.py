@@ -13,11 +13,9 @@ st.info('Email: ifeoluwapobalogun1@gmail.com \n\nPhone: +2349090251869')
 
 import time
 
-my_bar = st.progress(0)
+my_bar = st.progress(30)
 
-for percent_complete in range(100):
-    time.sleep(0.1)
-    my_bar.progress(percent_complete + 1)
+
 
 
 st.info('A Certified Data analyst and a self taught Data scientist and engineer specialized in sales and consultancy')
