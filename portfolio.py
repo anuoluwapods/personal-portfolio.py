@@ -5,7 +5,7 @@ from PIL import Image
 load_css()
 
 col1, col2, col3 = st.columns(3)
-col2.image(Image.open('image/image.png'))
+col2.image(Image.open('Image/image.png'))
 
 st.header('Anuoluwapo Balogun | Data Analyst')
 
