@@ -10,8 +10,8 @@ col2.image(Image.open('image/image.png'))
 st.header('Anuoluwapo, Data Analyst || Scientist || Engineer')
 
 st.info('A Certified Data Analyst and a Self taught Data Scientist and Engineer Specialized and in Sales and Consultancy')
-st.info('Skills and Softwares: Canva, Streamlit, Python, R, Rapid Miner, Flask, Django, PowerBI, Tableau, Plotly, Matplotlib, Seaborn,'
-        'Excel, Postgre SQL, Microsoft SQL Server')
+st.info('Skills and Softwares: Python| R | Streamlit | Rapid Miner |Excel | PowerBI | Tableau | Plotly |  Matplotlib | Seaborn |'
+        'Postgre SQL | Microsoft SQL Server | Flask | Django | Canva')
 
 icon_size = 20
 
