@@ -8,7 +8,7 @@ col1, col2, col3 = st.columns(3)
 col2.image(Image.open('image/image.png'))
 
 st.header('Anuoluwapo Balogun | Data Analyst')
-st.write('ifeoluwapobalogun1@gmail.com |'
+st.title('ifeoluwapobalogun1@gmail.com |'
          ' 09090251869')
 
 
