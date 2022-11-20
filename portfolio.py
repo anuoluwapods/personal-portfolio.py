@@ -27,7 +27,7 @@ st.info('Skills: ML Algorithmn | A/B Testing | Data Wrangling |'
 icon_size = 20
 
 st_button('twitter', 'https://twitter.com/AnuoluwapoDs','', icon_size)
-st_button('github', 'https://github.com/anuoluwapods', '', icon_size)
+st_button('github', 'https://github.com/anuoluwapods', 'GitHub', icon_size)
 st_button('linkedin', 'https://www.linkedin.com/in/anuoluwapo-abiodun-balogun-64b977186/', '', icon_size)
 st_button('instagram', 'https://www.instagram.com/anuoluwapods/', '', icon_size)
 st_button('facebook', 'https://www.facebook.com/ifeoluwapo.balogun', '', icon_size)
