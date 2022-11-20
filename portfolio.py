@@ -10,8 +10,13 @@ col2.image(Image.open('image/image.png'))
 st.header('Anuoluwapo | Data Analyst')
 
 st.info('A Certified Data analyst and a self taught Data scientist and engineer specialized in sales and consultancy')
-st.info('Skills and Softwares: Python| R | Streamlit | Rapid Miner |Excel | PowerBI | Tableau | Plotly |  Matplotlib | Seaborn |'
-        'Postgre SQL | Microsoft SQL Server | Flask | Django | Canva')
+st.info('Database: PostgreSQL | Microsoft SQL Server | MongoDB')
+st.info('Programming: Python | R')
+st.info('Statistics: Excel | SAS | SPSS')
+st.info('Distributed SQL: FaunaDB | CockroachDB')
+st.info('Cloud Platforms: Snowflake | AWS | GCP | Azure')
+st.info('Skills: ML Algorithmn | A/B Testing | Data Wrangling |'
+         'Analytics | Sales | Consulting')
 
 icon_size = 20
 
