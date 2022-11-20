@@ -10,8 +10,6 @@ def st_button(icon, url, label, iconsize):
         button_code = f'''
         <p>
         <a href={url} class="btn btn-secondary"  style="max-width: 18rem aria-pressed="true">
-        <div class="card-header">Header</div>
-        <div class="card-body">
            <h5 class="card-title">Secondary card title</h5>
            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
         </div>
