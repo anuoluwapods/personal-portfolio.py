@@ -22,7 +22,7 @@ st.info('Cloud Platforms: Snowflake | AWS | GCP | Azure')
 st.info('Skills: ML Algorithmn | A/B Testing | Data Wrangling |'
          ' Analytics | Data Preprocessing |'
          ' Exploratory Data Analysis | Fraud Analysis |'
-         ' Hypothesis Testing | Sales | Consulting')
+         ' Hypothesis Testing | Sales Analysis | Consulting')
 
 icon_size = 20
 
