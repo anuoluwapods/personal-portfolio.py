@@ -9,8 +9,8 @@ col2.image(Image.open('image/image.png'))
 
 st.header('Anuoluwapo Balogun | Data Analyst')
 
-st.info('Email: ifeoluwapobalogun1@gmail.com \n'
-         ' Phone: 09090251869')
+st.info('Email: ifeoluwapobalogun1@gmail.com'
+         '\nPhone: 09090251869')
 
 
 st.info('A Certified Data analyst and a self taught Data scientist and engineer specialized in sales and consultancy')
