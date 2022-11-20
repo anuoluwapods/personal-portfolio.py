@@ -7,7 +7,7 @@ load_css()
 col1, col2, col3 = st.columns(3)
 col2.image(Image.open('image/image.png'))
 
-st.header('Anuoluwapo, Data Analyst || Scientist || Engineer')
+st.header('Anuoluwapo | Data Analyst')
 
 st.info('A Certified Data analyst and a self taught Data ccientist and engineer specialized in Sales and Consultancy')
 st.info('Skills and Softwares: Python| R | Streamlit | Rapid Miner |Excel | PowerBI | Tableau | Plotly |  Matplotlib | Seaborn |'
