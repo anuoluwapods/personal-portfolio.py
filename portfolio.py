@@ -7,11 +7,11 @@ load_css()
 col1, col2, col3 = st.columns(3)
 col2.image(Image.open('image/image.png'))
 
-st.header('Anuoluwapo | Data Analyst')
+st.header('Anuoluwapo Balogun | Data Analyst')
 
 st.info('A Certified Data analyst and a self taught Data scientist and engineer specialized in sales and consultancy')
 st.info('Database: PostgreSQL | Microsoft SQL Server | MongoDB')
-st.info('Visualization Tools: PowerBI | Tableau')
+st.info('Visualization: PowerBI | Tableau')
 st.info('Programming: Python | R')
 st.info('Statistics: Excel | SAS | SPSS')
 st.info('Distributed SQL: FaunaDB | CockroachDB')
