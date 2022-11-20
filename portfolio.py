@@ -15,7 +15,7 @@ st.title('Tech Tools')
 st.write('PostgreSQL | Microsoft SQL Server | MongoDB PowerBI | Tableau Python | R |'
                       ' Excel | SAS | SPSS | FaunaDB | CockroachDB Snowflake | AWS | GCP | Azure')
 st.title('Tech Skills')
-st.write('Skills: ML Algorithmn | A/B Testing | Data Wrangling |'
+st.write('ML Algorithmn | A/B Testing | Data Wrangling |'
          ' Analytics | Data Preprocessing | Data Visualization'
          ' Exploratory Data Analysis | Fraud Analysis |'
          ' Hypothesis Testing | Sales Analysis | Consulting')
