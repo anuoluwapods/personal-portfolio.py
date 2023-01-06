@@ -8,8 +8,6 @@ col1, col2, col3 = st.columns(3)
 col2.image(Image.open('Image/image.png'))
 
 st.header('Anuoluwapo Balogun | Data Analyst')
-
-st.info('A Certified Data analyst')
 st.write('Email: anuoluwapobalogunds@gmail.com | Phone: +2349090251869')
 
 icon_size = 20
