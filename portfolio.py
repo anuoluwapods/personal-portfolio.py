@@ -9,6 +9,8 @@ col2.image(Image.open('Image/image.png'))
 
 st.header('Anuoluwapo Balogun | Data Analyst')
 st.write('Email: anuoluwapobalogunds@gmail.com | Phone: +2349090251869')
+st.info('Tech Stack: PostgreSQL, Microsoft SQL Server, BigQuery, MongoDB, Amazon Kinesis,'
+        'Tableau, PowerBI, Looker, Excel, SPSS, SAS, Python, R')
 
 icon_size = 20
 
