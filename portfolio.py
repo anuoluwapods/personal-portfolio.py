@@ -14,11 +14,9 @@ st.info('Tech Stack: PostgreSQL | Microsoft SQL Server | BigQuery | MongoDB | Am
 
 icon_size = 20
 
-st_button('twitter', 'https://twitter.com/AnuoluwapoDs','Twitter', icon_size)
+
 st_button('github', 'https://github.com/anuoluwapods', 'GitHub', icon_size)
 st_button('linkedin', 'https://www.linkedin.com/in/anuoluwapo-abiodun-balogun-64b977186/', 'LinkedIn', icon_size)
-st_button('instagram', 'https://www.instagram.com/anuoluwapods/', 'Instagram', icon_size)
-st_button('facebook', 'https://www.facebook.com/ifeoluwapo.balogun', 'Facebook', icon_size)
 st_button('medium', 'https://anuoluwapods.medium.com', 'Data Analysis', icon_size)
 st_button('jovian', 'https://jovian.ai/designegycreatives/notebooks', 'Data Science', icon_size)
 st_button('hashnode', 'https://hashnode.com/@AnuoluwapoDS', 'Web Application', icon_size)
